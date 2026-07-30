@@ -1,5 +1,7 @@
 # AI Use Disclosure
 
+![AI Use Disclosure](AI_DISCLOSURE.png)
+
 Artificial intelligence is now built into many common tools, including spellcheck, autocomplete, search, writing assistants, coding assistants, and development environments.
 
 AI use is not simply present or absent. This disclosure rates four types of involvement so readers can see where AI contributed and where the work remained human-directed.
