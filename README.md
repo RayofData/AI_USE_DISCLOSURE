@@ -1,4 +1,3 @@
-```markdown
 # AI Use Disclosure
 
 ![AI Use Disclosure](AI_DISCLOSURE.png)
@@ -86,4 +85,3 @@ Measures how much AI was used to check facts, sources, logic, tests, outputs, an
 | **3** | Collaborative | AI generated or performed meaningful checks, while the human independently verified major claims, logic, and outputs. |
 | **4** | Extensive | AI performed most checking, testing, or fact verification, with limited independent human review. |
 | **5** | AI-led | The final work was accepted largely through AI review, with minimal independent testing, source verification, or demonstrated understanding. |
-```
