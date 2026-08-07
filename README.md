@@ -32,7 +32,6 @@ The scores should **not** be averaged into a single overall rating. The purpose 
 
 1. **Rate AI involvement.** Use the [Rating Guide](#rating-guide) to assign a 0–5 score to each category.
 2. **Create your disclosure.** Copy the [Project Template](#project-template) into an `AI_DISCLOSURE.md` file and add a short project-specific description.
-3. **Add the visual.** Optionally customize `AI_DISCLOSURE.png` by filling the appropriate number of sparkles for each category and include it with your disclosure. Zero filled sparkles represents **0/5: No AI**.
 
 ## Project Template
 
@@ -40,8 +39,6 @@ Copy the following into `AI_DISCLOSURE.md` in the root of your project repositor
 
 ```markdown
 # AI Use Disclosure
-
-![AI Use Disclosure](AI_DISCLOSURE.png)
 
 This project uses the [AI Use Disclosure Framework](https://github.com/RayofData/AI_USE_DISCLOSURE) to report how AI contributed to the work.
 
