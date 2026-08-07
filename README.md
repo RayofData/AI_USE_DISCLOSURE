@@ -120,16 +120,17 @@ Includes grammar correction, rewriting, restructuring, debugging, refactoring, e
 
 Measures how much AI was relied upon to verify facts, audit code, validate data integrity, test outputs, check logic, or assess final quality.
 
-**A higher score still means greater AI involvement.** This category measures reliance on AI for verification, not the amount of human diligence. **0/5 means verification was performed independently without AI assistance, while 5/5 means verification was largely AI-led.**
+**A higher score means greater reliance on AI for verification.** Lower scores require greater independent human review and **understanding** of the work being verified.
 
 | Level | Label | Description |
 |---:|---|---|
-| **0** | No AI | Verification and quality assurance were performed independently without AI assistance. |
-| **1** | Minimal | The human independently reviewed, tested, and verified all important work, with only minor AI assistance. |
-| **2** | Advisory | AI suggested checks, edge cases, assertions, or test scenarios, but the human performed and evaluated the verification independently. |
-| **3** | Collaborative | AI generated or performed meaningful checks or tests, while the human independently verified major claims, logic, data, and outputs. |
-| **4** | Extensive | AI performed most testing, validation, or fact-checking, with limited independent human verification. |
-| **5** | AI-led | The final work was accepted primarily through AI-generated checks or AI review, with minimal independent testing, source verification, or demonstrated human understanding. |
+| **0** | No AI | Verification and quality assurance were performed without AI assistance. The human independently reviewed, tested, and understood all substantive work. |
+| **1** | Minimal | AI provided only minor verification assistance. The human independently reviewed and understood all substantive work and personally confirmed important results, logic, and outputs. |
+| **2** | Advisory | AI suggested checks, edge cases, assertions, or test scenarios. The human understood the underlying work, performed or evaluated the checks independently, and made the final determination of correctness. |
+| **3** | Collaborative | AI generated or performed meaningful checks or tests. The human understood the major components and independently verified the most important claims, logic, data, and outputs, but relied on AI for part of the verification process. |
+| **4** | Extensive | AI performed most testing, validation, or fact-checking. The human reviewed major results but did not independently verify or fully evaluate all substantive components. |
+| **5** | AI-led | Verification relied primarily on AI-generated checks or AI review. The work received minimal independent human testing, source verification, or demonstrated understanding before acceptance. |
+
 
 ## Using This Framework
 
